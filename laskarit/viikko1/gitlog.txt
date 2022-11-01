@@ -1,0 +1,66 @@
+commit 660a1aeb2cc98727f81a955eb69e6c02d33052e7
+Author: Roni Bärman <104189902+roni-b@users.noreply.github.com>
+Date:   Tue Nov 1 09:35:08 2022 +0200
+
+    new
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 720da1f449ae7d6705437e3f18c11923a963668e
+Author: Roni Bärman <104189902+roni-b@users.noreply.github.com>
+Date:   Tue Nov 1 09:29:18 2022 +0200
+
+    new
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 73de90012708d45a60cdc03315ca77e04fa6308c
+Author: Roni Bärman <104189902+roni-b@users.noreply.github.com>
+Date:   Tue Nov 1 09:21:22 2022 +0200
+
+    delete
+
+ tiedosto.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit d8acac313461b70a9c999c24881571131ad31fdd
+Author: Roni Bärman <104189902+roni-b@users.noreply.github.com>
+Date:   Tue Nov 1 09:18:10 2022 +0200
+
+    testing
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit cec42fb5b5b8c587d19108084bd1c6c4640c3196
+Author: Roni Bärman <104189902+roni-b@users.noreply.github.com>
+Date:   Tue Nov 1 09:16:18 2022 +0200
+
+    Delete
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 67c821aa6c3a81da8e93529670da38b20360acbc
+Author: Roni Bärman <104189902+roni-b@users.noreply.github.com>
+Date:   Tue Nov 1 09:15:03 2022 +0200
+
+    Add kolmas
+
+ kolmas.txt   | 0
+ tiedosto.txt | 1 +
+ 2 files changed, 1 insertion(+)
+
+commit 77a892f3debef61897cc47f2df12ae64cdfee85e
+Author: Roni Bärman <104189902+roni-b@users.noreply.github.com>
+Date:   Tue Nov 1 09:11:20 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
