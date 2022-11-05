@@ -1,3 +1,5 @@
+from maksukortti import Maksukortti
+
 class Kassapaate:
     def __init__(self):
         self.kassassa_rahaa = 100000
@@ -20,7 +22,7 @@ class Kassapaate:
         else:
             return maksu
 
-    def syo_edullisesti_kortilla(self, kortti):
+    def syo_edullisesti_kortilla(self, kortti:Maksukortti):
         if kortti.saldo >= 240:
             kortti.ota_rahaa(240)
             self.edulliset += 1
@@ -28,7 +30,7 @@ class Kassapaate:
         else:
             return False
 
-    def syo_maukkaasti_kortilla(self, kortti):
+    def syo_maukkaasti_kortilla(self, kortti:Maksukortti):
         if kortti.saldo >= 400:
             kortti.ota_rahaa(400)
             self.maukkaat += 1
@@ -36,7 +38,7 @@ class Kassapaate:
         else:
             return False
 
-    def lataa_rahaa_kortille(self, kortti, summa):
+    def lataa_rahaa_kortille(self, kortti:Maksukortti, summa):
         if summa >= 0:
             kortti.lataa_rahaa(summa)
             self.kassassa_rahaa += summa
