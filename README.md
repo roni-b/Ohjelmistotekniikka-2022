@@ -15,4 +15,4 @@ Viikko 2
 
 [unicafe](https://github.com/roni-b/Ohjelmistotekniikka-2022/tree/master/laskarit/viikko2/unicafe/src)
 
-[työaikakirjanpito] (https://github.com/roni-b/Ohjelmistotekniikka-2022/blob/master/dokumentaatio/tyoaikakirjanpito.md)
+[työaikakirjanpito](https://github.com/roni-b/Ohjelmistotekniikka-2022/blob/master/dokumentaatio/tyoaikakirjanpito.md)
