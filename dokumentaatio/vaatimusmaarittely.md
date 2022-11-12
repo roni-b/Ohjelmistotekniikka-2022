@@ -1,0 +1,11 @@
+# Vaatimusmäärittely
+
+## Sovelluksen tarkoitus
+
+
+
+## Toiminnallisuus
+
+
+
+
