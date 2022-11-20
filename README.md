@@ -18,3 +18,7 @@ Viikko 2
 [työaikakirjanpito](https://github.com/roni-b/Ohjelmistotekniikka-2022/blob/master/dokumentaatio/tyoaikakirjanpito.md)
 
 [vaatimusmäärittely](https://github.com/roni-b/Ohjelmistotekniikka-2022/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
+Viikko 3
+
+[changelog] (https://github.com/roni-b/Ohjelmistotekniikka-2022/blob/master/dokumentaatio/changelog.md)
