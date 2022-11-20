@@ -21,4 +21,4 @@ Viikko 2
 
 Viikko 3
 
-[changelog] (https://github.com/roni-b/Ohjelmistotekniikka-2022/blob/master/dokumentaatio/changelog.md)
+[changelog](https://github.com/roni-b/Ohjelmistotekniikka-2022/blob/master/dokumentaatio/changelog.md)
