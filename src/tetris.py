@@ -60,7 +60,7 @@ pygame.mouse.set_visible(False)
 #specify object
 next_shape = random.randint(1, 7)
 print(next_shape)
-shape = NewShape(str(next_shape)+".png")
+shape = NewShape("shapes/"+str(next_shape)+".png")
 #group containing sprites and then drawing them
 shape_group = pygame.sprite.Group()
 shape_group.add(shape)
