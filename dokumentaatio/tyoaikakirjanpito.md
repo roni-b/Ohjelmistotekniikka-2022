@@ -7,6 +7,7 @@
 | 22.11. | 2h    | Muutin toteutustapaa ja yritin saada jonkinlaisen version palautettua|
 | 27.11. | 1h    | Lisäsin peliin toiminnallisuutta|
 | 28.11. | 5h    | Toteutin lisää toimintoja, kävin koodia läpi Pylintillä, parantelin määrittelydokumentin sisältöä ja lisäsin testejä|
+| yht. | 16h   | |
 
 
 
