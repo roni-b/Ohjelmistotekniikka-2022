@@ -9,5 +9,12 @@ Harjoitustyön ideana on toteuttaa Alexey Pajitnovin Tetris-pelistä oma versio,
 - Mahdollisuus aloittaa uusi peli ja keskeyttää nykyinen 
 - Vaikeustasoa voi säätää tetrominojen putoamisnopeutta muuttamalla
 - Pistelaskuri
+ 
+## Toteutettu tähän mennessä:
+#### Pelin perustoiminnallisuuksista seuraavat:
+
+- Mahdollisuus pudottaa palikoita toistensa päälle
+- Palikoiden ohjaus nuolinäppäimillä
+
 
 
