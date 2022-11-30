@@ -7,7 +7,7 @@ def start(ctx):
 @task
 def test(ctx):
     ctx.run()
-
+    
 @task
-def coverage-report(ctx):
-    ctx.run()
+def lint(ctx):
+    ctx.run("pylint tetris_main.py", pty=True)
